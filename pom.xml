@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.118.113.20:5000/repository/wale-snapshot/</url>
+	      <url>http://172.31.19.62:5000/repository/wale-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
