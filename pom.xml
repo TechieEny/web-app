@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.19.62:5000/repository/Test1-release/</url>
+	      <url>http://172.31.19.62:5000/repository/wale-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.19.62:5000/repository/Test1-release/</url>
+	      <url>http://172.31.19.62:5000/repository/wale-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
